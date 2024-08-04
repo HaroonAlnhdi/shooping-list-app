@@ -1,6 +1,9 @@
 
 import './App.css';
 
+
+// --------------------------------Shopping List --------------------------------------------------
+
 // const App = () => {
 //   const items = [
 //     { name: 'Milk', purchased: true },
